@@ -266,7 +266,7 @@ export default function Navigation() {
                 <Link to="/">
                   <span className="sr-only">Your Company</span>
                   <img
-                    src="https://res.cloudinary.com/ddkso1wxi/image/upload/v1675919455/Logo/Copy_of_Zosh_Academy_nblljp.png"
+                    src="https://thumbs.dreamstime.com/b/shopping-bag-logo-design-icon-online-shop-symbol-vector-illustrations-discount-flat-sales-digital-commerce-store-simple-marketing-157881334.jpg"
                     alt="Shopwithzosh"
                     className="h-8 w-8 mr-2"
                   />
